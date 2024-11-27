@@ -57,4 +57,11 @@ Bevasarlo lista
 2. szamozott
 3. hhhh
 
+``` kod reszlet ```  
+''' nem ugyan az  '''  
+```valami kode``` mas szoveg 
+```valami kode```  mas szoveg 
+
+
+
 
