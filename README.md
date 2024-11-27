@@ -1,6 +1,19 @@
 # H1 MD_learn
-repo MD gyakorlasara
-## H2 MD
+repo MD gyakorlasara 
+H1 
+-----
+H1 
+======
+## H2 MD 
+H2  
+======
+H2  
+======
+H2====
+H2  
+====
+H2 
+------ 
 ### H3 MD
 #### H4 MD
 ##### H5 MD
@@ -14,5 +27,34 @@ repo MD gyakorlasara
 ==Hello==
 
 
+DNes je
+Zajta bude 2 szokoz  
+Poyajtra
+
+
+__Bold__  
+**Bold**  
+_italic_  
+*italic*  
+>toto jee blog..
+>blog1.2
+>>blog2
+>>blog2
+>>>blog3
+>>>
+
+Bevasarlo lista  
+---
+-elso
+- mssodik
+- harmadik
+- negyedik
+- - otodik
+  - hatodik
+  - - hetedi
+    - 8dikma
+1. szamoyott
+2. szamozott
+3. hhhh
 
 
